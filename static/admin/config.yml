@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: yenweitan/personal-blog-gatsby
+  repo: yenweitan/blog-gatsby
 
 media_folder: content/assets
 public_folder: ../assets
